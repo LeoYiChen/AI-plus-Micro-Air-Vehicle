@@ -1,6 +1,5 @@
 ## An Introduction: AI-driven Design for Micro Air Vehicle (AI+MAV)
 
-
 ***
 ![](https://github.com/LeoYiChen/AI-plus-Micro-Air-Vehicle/blob/master/01MAV20191214.jpg)
 ![](https://github.com/LeoYiChen/AI-plus-Micro-Air-Vehicle/blob/master/02MAV20191214.jpg)
