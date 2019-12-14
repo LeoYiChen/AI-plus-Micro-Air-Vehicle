@@ -16,5 +16,5 @@
 ![](https://github.com/LeoYiChen/AI-plus-Micro-Air-Vehicle/blob/master/13MAV20191214.jpg)
 ![](https://github.com/LeoYiChen/AI-plus-Micro-Air-Vehicle/blob/master/14MAV20191214.jpg)
 ![](https://github.com/LeoYiChen/AI-plus-Micro-Air-Vehicle/blob/master/15MAV20191214.jpg)
-
+![](https://github.com/LeoYiChen/AI-plus-Micro-Air-Vehicle/blob/master/16MAV20191214.jpg)
 ***
